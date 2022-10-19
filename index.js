@@ -49,7 +49,7 @@ function price_in_words(price) {
         }
         str = words.reverse().join("")
     } else str = "";
-    return str
+    return str + " Only"
 
 }
 module.exports = price_in_words
