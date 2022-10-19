@@ -1,0 +1,22 @@
+{
+  "name": "price-to-word",
+  "version": "1.0.0",
+  "description": "Convert Price(Number) to Price(Word)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaychovatiya982/price-to-word.git"
+  },
+  "keywords": [
+    "price-to-word"
+  ],
+  "author": "Uday Chovatiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaychovatiya982/price-to-word/issues"
+  },
+  "homepage": "https://github.com/udaychovatiya982/price-to-word#readme"
+}
